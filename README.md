@@ -10,7 +10,9 @@ library(dplyr)
 library(tidyverse)
 ```
 
-Import data (code not shown). Data is: single column, header = 'word', rows = individual words spoken. Saved the data as `kelsey`.
+Import data (code not shown). Data is in this repository.
+
+Data is: single column, header = 'word', rows = individual words spoken. Saved the data as `kelsey`.
 
 Plot a chart of the top 50 most used words (change n to change chart). 
 
